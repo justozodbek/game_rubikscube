@@ -1,4 +1,4 @@
-# 🧩 3D Rubik's Cube
+# 🕹 3D Rubik's Cube
 
 Online Rubik kubini hal qiling! 
 
