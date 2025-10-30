@@ -1,27 +1,25 @@
-# 🕹 3D Rubik's Cube
+# 🌐 Rubiks Cube
 
-Online Rubik kubini hal qiling! 
+![Banner](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NzJmdHcxNDAyZ2Frb3doeHN1cjBxcGZmcjVsNDZobXRnY2l0ZXh5YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Wx4weI2cu16KwgUuwK/giphy.gif)
 
-Har bir kubni aylantiring, aralashtirib o'ynang va hal qilishga harakat qiling.
-
-## Xususiyatlari
-
-- 🎯 Har bir kubni aylantirishingiz mumkin
-- 🔀 Avtomatik aralashtirish tugmasi
-- ⏰ Timer va harakat hisoblagichi
-- 📱 Mobil qurilmalarda ishlaydi
-
-## Boshqaruv
-
-- **Sichqoncha** - kamerani aylantirish
-- **Kubni bosish** - yuzlarni aylantirish
-- **Shuffle** - kubni aralashtirish
-- **Reset** - dastlabki holatga qaytarish
-
-## Aloqa
-
-📱 Telegram: [@justozodbek](https://t.me/justozodbek)
+> ✨ A modern, responsive, and creative website built with love and clean code.
 
 ---
 
-⭐ Agar yoqsa, yulduzcha bosishni unutmang!
+## ⚡️ Features
+- 🚀 Fast & responsive  
+- 🎨 Clean design  
+- 🔧 Easy to customize  
+
+---
+
+## 🛠 Tech Stack
+HTML • CSS • JS • SASS
+
+---
+
+## 🚀 Run Locally
+```bash
+git clone https://github.com/username/project-name.git
+cd project-name
+npm install && npm run dev
